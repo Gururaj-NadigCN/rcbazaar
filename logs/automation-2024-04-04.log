@@ -1,0 +1,61 @@
+18:22:39.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+18:22:40.129 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+18:24:45.337 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+18:24:45.646 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+18:24:54.423 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration*****
+18:24:54.423 [main] DEBUG testCases.AccountRegistrationTest - Application Started
+18:24:54.423 [main] INFO  testCases.AccountRegistrationTest - *****Application Started*****
+18:24:54.424 [main] DEBUG testCases.AccountRegistrationTest - application logs
+18:24:54.487 [main] INFO  testCases.AccountRegistrationTest - Entering First Name
+18:24:54.573 [main] INFO  testCases.AccountRegistrationTest - Entering Last Name
+18:24:54.697 [main] INFO  testCases.AccountRegistrationTest - Selecting Day
+18:24:54.875 [main] INFO  testCases.AccountRegistrationTest - Selecting Month
+18:24:55.011 [main] INFO  testCases.AccountRegistrationTest - Selecting Year
+18:24:55.170 [main] INFO  testCases.AccountRegistrationTest - Entering Email
+18:24:55.279 [main] INFO  testCases.AccountRegistrationTest - Entering Company Name
+18:24:55.379 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address1
+18:24:55.487 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address 2
+18:24:55.586 [main] INFO  testCases.AccountRegistrationTest - Entering Pincode
+18:24:55.690 [main] INFO  testCases.AccountRegistrationTest - Entering City
+18:24:55.809 [main] INFO  testCases.AccountRegistrationTest - Selecting Country
+18:24:55.939 [main] INFO  testCases.AccountRegistrationTest - Selecting State
+18:24:56.507 [main] INFO  testCases.AccountRegistrationTest - Entering Phone Number
+18:24:56.617 [main] INFO  testCases.AccountRegistrationTest - Entering GST Number
+18:24:56.726 [main] INFO  testCases.AccountRegistrationTest - Entering Password
+18:24:56.828 [main] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+18:24:56.922 [main] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+18:24:58.426 [main] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+18:24:58.428 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+18:24:58.428 [main] DEBUG testCases.AccountRegistrationTest - Application Log Ends........
+18:24:58.428 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration END*****
+18:48:15.432 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\crossbrowsertest.xml"
+18:48:15.837 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\crossbrowsertest.xml
+
+18:48:26.778 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration*****
+18:48:26.778 [TestNG-tests-1] DEBUG testCases.AccountRegistrationTest - Application Started
+18:48:26.779 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - *****Application Started*****
+18:48:26.779 [TestNG-tests-1] DEBUG testCases.AccountRegistrationTest - application logs
+18:48:26.854 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering First Name
+18:48:26.967 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Last Name
+18:48:27.053 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Selecting Day
+18:48:27.246 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Selecting Month
+18:48:27.400 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration*****
+18:48:27.400 [TestNG-tests-2] DEBUG testCases.AccountRegistrationTest - Application Started
+18:48:27.400 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *****Application Started*****
+18:48:27.400 [TestNG-tests-2] DEBUG testCases.AccountRegistrationTest - application logs
+18:48:27.423 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Selecting Year
+18:48:27.459 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering First Name
+18:48:27.596 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Email
+18:48:27.616 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Last Name
+18:48:27.696 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Company Name
+18:48:27.748 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Selecting Day
+18:48:27.790 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Street Address1
+18:48:27.901 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Street Address 2
+18:48:27.950 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Selecting Month
+18:48:27.986 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Pincode
+18:48:28.057 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering City

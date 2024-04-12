@@ -1,0 +1,62 @@
+00:32:55.836 [main] INFO  testCases.AccountRegistrationTest - Entering First Name
+00:32:55.944 [main] INFO  testCases.AccountRegistrationTest - Entering Last Name
+00:32:56.051 [main] INFO  testCases.AccountRegistrationTest - Selecting Day
+00:32:56.210 [main] INFO  testCases.AccountRegistrationTest - Selecting Month
+00:32:56.335 [main] INFO  testCases.AccountRegistrationTest - Selecting Year
+00:32:56.462 [main] INFO  testCases.AccountRegistrationTest - Entering Email
+00:32:56.548 [main] INFO  testCases.AccountRegistrationTest - Entering Company Name
+00:32:56.627 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address1
+00:32:56.709 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address 2
+00:32:56.786 [main] INFO  testCases.AccountRegistrationTest - Entering Pincode
+00:32:56.864 [main] INFO  testCases.AccountRegistrationTest - Entering City
+00:32:56.947 [main] INFO  testCases.AccountRegistrationTest - Selecting Country
+00:32:57.049 [main] INFO  testCases.AccountRegistrationTest - Selecting State
+00:32:57.483 [main] INFO  testCases.AccountRegistrationTest - Entering Phone Number
+00:32:57.583 [main] INFO  testCases.AccountRegistrationTest - Entering GST Number
+00:32:57.698 [main] INFO  testCases.AccountRegistrationTest - Entering Password
+00:32:57.808 [main] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+00:32:57.907 [main] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+00:33:00.200 [main] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+00:33:00.203 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+00:33:00.204 [main] DEBUG testCases.AccountRegistrationTest - Application Log Ends........
+00:33:00.204 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration END*****
+00:33:06.051 [main] INFO  testCases.TC_002_LoginTest - ****TC_002_LOGIN Starts****
+00:33:06.051 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs
+00:33:06.052 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link
+00:33:07.649 [main] INFO  testCases.TC_002_LoginTest - Entering email and password
+00:33:07.970 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+00:33:07.972 [main] INFO  testCases.TC_002_LoginTest - checking my account exists
+00:33:11.730 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+00:33:11.730 [main] INFO  testCases.TC_002_LoginTest - ****Finished Login Test****
+00:33:17.604 [main] INFO  testCases.TC_003_ProdcutDertails - ****TC_003_Product Details Start****
+00:33:17.604 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+00:33:17.605 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on login link
+00:33:19.348 [main] INFO  testCases.TC_003_ProdcutDertails - Entering email and password
+00:33:19.692 [main] INFO  testCases.TC_003_ProdcutDertails - clicked on login button..
+00:33:23.458 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on details button
+00:33:28.482 [main] INFO  testCases.TC_003_ProdcutDertails - Checking Product Details Displayed??
+00:33:28.482 [main] INFO  testCases.TC_003_ProdcutDertails - Test Passed
+00:33:28.482 [main] INFO  testCases.TC_003_ProdcutDertails - ****TC_003_Product Details End****
+00:33:28.482 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+00:53:39.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+00:53:40.089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+00:53:48.070 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****
+00:53:48.070 [main] DEBUG testCases.TC_004_Logout_Functionality - Application Debug Starts
+00:56:02.041 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+00:56:02.379 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+00:56:10.015 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****
+00:56:10.015 [main] DEBUG testCases.TC_004_Logout_Functionality - Application Debug Starts
+00:56:17.412 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****
+00:56:17.412 [main] DEBUG testCases.TC_004_Logout_Functionality - Application Debug Ends
+01:05:04.629 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+01:05:04.980 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+01:05:19.389 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****
+01:05:19.390 [main] DEBUG testCases.TC_004_Logout_Functionality - Application Debug Starts
+01:05:26.598 [main] INFO  testCases.TC_004_Logout_Functionality - Test passed
+01:05:26.602 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****

@@ -1,0 +1,48 @@
+19:25:16.634 [main] INFO  testCases.AccountRegistrationTest - Selecting Month
+19:25:16.812 [main] INFO  testCases.AccountRegistrationTest - Selecting Year
+19:25:16.985 [main] INFO  testCases.AccountRegistrationTest - Entering Email
+19:25:17.114 [main] INFO  testCases.AccountRegistrationTest - Entering Company Name
+19:25:17.212 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address1
+19:25:17.328 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address 2
+19:25:17.436 [main] INFO  testCases.AccountRegistrationTest - Entering Pincode
+19:25:17.545 [main] INFO  testCases.AccountRegistrationTest - Entering City
+19:25:17.662 [main] INFO  testCases.AccountRegistrationTest - Selecting Country
+19:25:17.807 [main] INFO  testCases.AccountRegistrationTest - Selecting State
+19:25:18.363 [main] INFO  testCases.AccountRegistrationTest - Entering Phone Number
+19:25:18.474 [main] INFO  testCases.AccountRegistrationTest - Entering GST Number
+19:25:18.580 [main] INFO  testCases.AccountRegistrationTest - Entering Password
+19:25:18.688 [main] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+19:25:18.794 [main] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+19:25:26.973 [main] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+19:25:27.277 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@10bea4: 35 ms
+19:25:27.353 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2b037cfc: 76 ms
+19:25:27.369 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@574cd322: 16 ms
+19:25:27.382 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@fb713e7: 12 ms
+19:25:27.390 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1a2909ae: 8 ms
+19:25:27.401 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@750ff7d3: 10 ms
+19:25:27.401 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@63b3ee82: 0 ms
+19:26:13.851 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.883 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:26:13.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.886 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.886 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+19:26:13.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+19:26:13.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.916 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.916 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.921 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.921 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:26:13.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:26:13.925 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.

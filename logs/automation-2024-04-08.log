@@ -1,0 +1,64 @@
+23:44:14.294 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+23:44:14.307 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on login link
+23:44:15.895 [main] INFO  testCases.TC_003_ProdcutDertails - Entering email and password
+23:44:16.298 [main] INFO  testCases.TC_003_ProdcutDertails - clicked on login button..
+23:44:20.211 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on details button
+23:44:25.129 [main] INFO  testCases.TC_003_ProdcutDertails - Checking Product Details Displayed??
+23:44:25.129 [main] INFO  testCases.TC_003_ProdcutDertails - Test Passed
+23:44:25.129 [main] INFO  testCases.TC_003_ProdcutDertails - ****TC_003_Product Details End****
+23:44:25.129 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+23:46:57.605 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+23:46:58.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+23:48:37.334 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+23:48:37.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+23:49:32.956 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+23:49:33.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+23:53:01.494 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+23:53:01.833 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+23:53:10.811 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration*****
+23:53:10.811 [main] DEBUG testCases.AccountRegistrationTest - Application Started
+23:53:10.811 [main] INFO  testCases.AccountRegistrationTest - *****Application Started*****
+23:53:10.811 [main] DEBUG testCases.AccountRegistrationTest - application logs
+23:53:10.866 [main] INFO  testCases.AccountRegistrationTest - Entering First Name
+23:53:10.975 [main] INFO  testCases.AccountRegistrationTest - Entering Last Name
+23:53:11.094 [main] INFO  testCases.AccountRegistrationTest - Selecting Day
+23:53:11.248 [main] INFO  testCases.AccountRegistrationTest - Selecting Month
+23:53:11.408 [main] INFO  testCases.AccountRegistrationTest - Selecting Year
+23:53:11.570 [main] INFO  testCases.AccountRegistrationTest - Entering Email
+23:53:11.698 [main] INFO  testCases.AccountRegistrationTest - Entering Company Name
+23:53:11.803 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address1
+23:53:11.916 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address 2
+23:53:12.022 [main] INFO  testCases.AccountRegistrationTest - Entering Pincode
+23:53:12.132 [main] INFO  testCases.AccountRegistrationTest - Entering City
+23:53:12.248 [main] INFO  testCases.AccountRegistrationTest - Selecting Country
+23:53:12.387 [main] INFO  testCases.AccountRegistrationTest - Selecting State
+23:53:12.967 [main] INFO  testCases.AccountRegistrationTest - Entering Phone Number
+23:53:13.089 [main] INFO  testCases.AccountRegistrationTest - Entering GST Number
+23:53:13.199 [main] INFO  testCases.AccountRegistrationTest - Entering Password
+23:53:13.316 [main] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+23:53:13.417 [main] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+23:53:15.683 [main] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+23:53:15.687 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+23:53:15.687 [main] DEBUG testCases.AccountRegistrationTest - Application Log Ends........
+23:53:15.687 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration END*****
+23:53:21.641 [main] INFO  testCases.TC_002_LoginTest - ****TC_002_LOGIN Starts****
+23:53:21.642 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs
+23:53:21.643 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link
+23:53:23.382 [main] INFO  testCases.TC_002_LoginTest - Entering email and password
+23:53:23.662 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+23:53:23.664 [main] INFO  testCases.TC_002_LoginTest - checking my account exists
+23:53:27.306 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+23:53:27.306 [main] INFO  testCases.TC_002_LoginTest - ****Finished Login Test****
+23:53:32.665 [main] INFO  testCases.TC_003_ProdcutDertails - ****TC_003_Product Details Start****
+23:53:32.666 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+23:53:32.666 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on login link
+23:53:34.260 [main] INFO  testCases.TC_003_ProdcutDertails - Entering email and password
+23:53:34.594 [main] INFO  testCases.TC_003_ProdcutDertails - clicked on login button..

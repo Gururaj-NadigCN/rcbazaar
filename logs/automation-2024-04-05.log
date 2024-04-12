@@ -1,0 +1,57 @@
+18:48:28.086 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Selecting Year
+18:48:28.136 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Selecting Country
+18:48:28.227 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Email
+18:48:28.239 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Selecting State
+18:48:28.366 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Company Name
+18:48:28.466 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Street Address1
+18:48:28.591 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Street Address 2
+18:48:28.697 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Pincode
+18:48:28.730 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Phone Number
+18:48:28.827 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering City
+18:48:28.847 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering GST Number
+18:48:28.964 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Password
+18:48:28.978 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Selecting Country
+18:48:29.043 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+18:48:29.074 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Selecting State
+18:48:29.110 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+18:48:29.531 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Phone Number
+18:48:29.671 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering GST Number
+18:48:29.780 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Password
+18:48:29.903 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+18:48:30.001 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+18:48:30.886 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+18:48:30.888 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Test Passed
+18:48:30.888 [TestNG-tests-1] DEBUG testCases.AccountRegistrationTest - Application Log Ends........
+18:48:30.888 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration END*****
+18:48:31.739 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+18:48:31.739 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Test Passed
+18:48:31.739 [TestNG-tests-2] DEBUG testCases.AccountRegistrationTest - Application Log Ends........
+18:48:31.739 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration END*****
+16:31:44.908 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+16:31:45.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+16:32:02.111 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration*****
+16:32:02.111 [main] DEBUG testCases.AccountRegistrationTest - Application Started
+16:32:02.111 [main] INFO  testCases.AccountRegistrationTest - *****Application Started*****
+16:32:02.111 [main] DEBUG testCases.AccountRegistrationTest - application logs
+16:32:02.180 [main] INFO  testCases.AccountRegistrationTest - Entering First Name
+16:32:02.293 [main] INFO  testCases.AccountRegistrationTest - Entering Last Name
+16:32:02.407 [main] INFO  testCases.AccountRegistrationTest - Selecting Day
+16:32:02.542 [main] INFO  testCases.AccountRegistrationTest - Selecting Month
+16:32:02.693 [main] INFO  testCases.AccountRegistrationTest - Selecting Year
+16:32:02.832 [main] INFO  testCases.AccountRegistrationTest - Entering Email
+16:32:02.931 [main] INFO  testCases.AccountRegistrationTest - Entering Company Name
+16:32:03.019 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address1
+16:32:03.121 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address 2
+16:32:03.210 [main] INFO  testCases.AccountRegistrationTest - Entering Pincode
+16:32:03.295 [main] INFO  testCases.AccountRegistrationTest - Entering City
+16:32:03.395 [main] INFO  testCases.AccountRegistrationTest - Selecting Country
+16:32:03.513 [main] INFO  testCases.AccountRegistrationTest - Selecting State
+16:32:04.072 [main] INFO  testCases.AccountRegistrationTest - Entering Phone Number
+16:32:04.195 [main] INFO  testCases.AccountRegistrationTest - Entering GST Number
+16:32:04.323 [main] INFO  testCases.AccountRegistrationTest - Entering Password
+16:32:04.438 [main] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+16:32:04.547 [main] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+16:32:06.466 [main] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+16:32:06.469 [main] INFO  testCases.AccountRegistrationTest - Test Passed
