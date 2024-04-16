@@ -7,19 +7,14 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="regression"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.AccountRegistrationTest">
+      <class name="testCases.TC_007_Ordering_Items">
         <methods>
+          <include name="verifyOrderingItems"/>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="verify_account_registration"/>
         </methods>
-      </class> <!-- testCases.AccountRegistrationTest -->
+      </class> <!-- testCases.TC_007_Ordering_Items -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

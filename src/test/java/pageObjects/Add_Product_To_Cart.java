@@ -44,6 +44,11 @@ public class Add_Product_To_Cart extends BasePage{
 		shoppingItemsLink.click();
 	}
 	
+//	public void clickAlert() {
+//		driver.switchTo().alert().accept();
+//	}
+	
+	
 	public boolean verifyShoppingCartHeading() {
 		try {
 			return shopingCartHaading.isDisplayed();
