@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-16T16:31:23 IST" name="Suite" finished-at="2024-04-16T16:33:01 IST" duration-ms="97762">
+  <suite started-at="2024-04-17T18:12:53 IST" name="Suite" finished-at="2024-04-17T18:13:13 IST" duration-ms="20671">
     <groups>
     </groups>
-    <test started-at="2024-04-16T16:31:23 IST" name="Test" finished-at="2024-04-16T16:33:01 IST" duration-ms="97762">
-      <class name="testCases.TC_007_Ordering_Items">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_007_Ordering_Items@4648ce9]" started-at="2024-04-16T16:31:23 IST" name="setup" finished-at="2024-04-16T16:31:33 IST" duration-ms="9105" status="PASS">
+    <test started-at="2024-04-17T18:12:53 IST" name="Test" finished-at="2024-04-17T18:13:13 IST" duration-ms="20671">
+      <class name="testCases.TC_008_My_Account_Details">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_008_My_Account_Details@4648ce9]" started-at="2024-04-17T18:12:53 IST" name="setup" finished-at="2024-04-17T18:13:04 IST" duration-ms="10679" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,15 +23,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyOrderingItems()[pri:0, instance:testCases.TC_007_Ordering_Items@4648ce9]" started-at="2024-04-16T16:31:33 IST" name="verifyOrderingItems" finished-at="2024-04-16T16:33:01 IST" duration-ms="88017" status="PASS">
+        <test-method signature="verfiyMyAccountDetails()[pri:0, instance:testCases.TC_008_My_Account_Details@4648ce9]" started-at="2024-04-17T18:13:04 IST" name="verfiyMyAccountDetails" finished-at="2024-04-17T18:13:13 IST" duration-ms="9419" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyOrderingItems -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_007_Ordering_Items@4648ce9]" started-at="2024-04-16T16:33:01 IST" name="tearDown" finished-at="2024-04-16T16:33:01 IST" duration-ms="258" status="PASS">
+        </test-method> <!-- verfiyMyAccountDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_008_My_Account_Details@4648ce9]" started-at="2024-04-17T18:13:13 IST" name="tearDown" finished-at="2024-04-17T18:13:13 IST" duration-ms="251" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_007_Ordering_Items -->
+      </class> <!-- testCases.TC_008_My_Account_Details -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

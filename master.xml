@@ -14,8 +14,9 @@
       <class name="testCases.TC_003_ProdcutDertails"></class> 
       <class name="testCases.TC_004_Logout_Functionality"></class> 
     <class name="testCases.TC_005_Add_Product_Cart"></class>     	      	
-     <class name="testCases.TC_006_Fogot_Link_Functionality"></class> -->
-     <class name="testCases.TC_007_Ordering_Items"></class>	
+     <class name="testCases.TC_006_Fogot_Link_Functionality"></class> 
+     <class name="testCases.TC_007_Ordering_Items"></class>	-->
+     <class name="testCases.TC_008_My_Account_Details"></class>
       
     </classes>
   </test> <!-- Test -->

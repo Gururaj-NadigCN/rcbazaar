@@ -1,1 +1,39 @@
 16:31:33.084 [main] DEBUG testCases.TC_007_Ordering_Items - Debug Starts
+17:54:27.506 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+17:54:28.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+17:54:43.953 [main] INFO  testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Starts
+17:54:43.953 [main] DEBUG testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Debug Starts
+17:56:00.898 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+17:56:01.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+17:56:13.690 [main] INFO  testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Starts
+17:56:13.690 [main] DEBUG testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Debug Starts
+18:01:46.003 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+18:01:46.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+18:01:59.508 [main] INFO  testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Starts
+18:01:59.511 [main] DEBUG testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Debug Starts
+18:11:01.421 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+18:11:01.716 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+18:11:12.039 [main] INFO  testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Starts
+18:11:12.040 [main] DEBUG testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Debug Starts
+18:11:43.785 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+18:11:44.087 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+18:11:55.666 [main] INFO  testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Starts
+18:11:55.666 [main] DEBUG testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Debug Starts
+18:12:52.853 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
+18:12:53.192 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\master.xml
+
+18:13:04.192 [main] INFO  testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Starts
+18:13:04.192 [main] DEBUG testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Debug Starts
+18:13:13.603 [main] INFO  testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Ends
+18:13:13.603 [main] DEBUG testCases.TC_008_My_Account_Details - TC_008_My_Account_Details Debug Ends
