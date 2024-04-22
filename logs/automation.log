@@ -1,24 +1,53 @@
-19:11:44.930 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
-19:11:45.249 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Leverage\rcbazar\rcbazar\master.xml
-
-19:12:02.290 [main] INFO  testCases.TC_009_Advanced_Search_Functionality - TC_009_Advanced_Search_Functionality Test Starts
-19:12:02.290 [main] DEBUG testCases.TC_009_Advanced_Search_Functionality - Advanced Search Debug Starts
-19:12:27.904 [main] INFO  testCases.TC_009_Advanced_Search_Functionality - TC_009_Advanced_Search_Functionality Test Ends
-19:12:27.904 [main] DEBUG testCases.TC_009_Advanced_Search_Functionality - Advanced Search Debug Ends
-19:13:04.160 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
-19:13:04.502 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Leverage\rcbazar\rcbazar\master.xml
-
-19:13:16.006 [main] INFO  testCases.TC_009_Advanced_Search_Functionality - TC_009_Advanced_Search_Functionality Test Starts
-19:13:16.006 [main] DEBUG testCases.TC_009_Advanced_Search_Functionality - Advanced Search Debug Starts
-19:13:39.549 [main] INFO  testCases.TC_009_Advanced_Search_Functionality - TC_009_Advanced_Search_Functionality Test Ends
-19:13:39.549 [main] DEBUG testCases.TC_009_Advanced_Search_Functionality - Advanced Search Debug Ends
-19:14:01.369 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\master.xml"
-19:14:01.674 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Leverage\rcbazar\rcbazar\master.xml
-
-19:14:14.004 [main] INFO  testCases.TC_009_Advanced_Search_Functionality - TC_009_Advanced_Search_Functionality Test Starts
-19:14:14.004 [main] DEBUG testCases.TC_009_Advanced_Search_Functionality - Advanced Search Debug Starts
-19:14:36.672 [main] INFO  testCases.TC_009_Advanced_Search_Functionality - TC_009_Advanced_Search_Functionality Test Ends
-19:14:36.673 [main] DEBUG testCases.TC_009_Advanced_Search_Functionality - Advanced Search Debug Ends
+19:05:07.162 [main] INFO  testCases.AccountRegistrationTest - Entering Pincode
+19:05:07.250 [main] INFO  testCases.AccountRegistrationTest - Entering City
+19:05:07.330 [main] INFO  testCases.AccountRegistrationTest - Selecting Country
+19:05:07.428 [main] INFO  testCases.AccountRegistrationTest - Selecting State
+19:05:07.891 [main] INFO  testCases.AccountRegistrationTest - Entering Phone Number
+19:05:07.984 [main] INFO  testCases.AccountRegistrationTest - Entering GST Number
+19:05:08.091 [main] INFO  testCases.AccountRegistrationTest - Entering Password
+19:05:08.184 [main] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+19:05:08.285 [main] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+19:05:09.841 [main] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+19:05:09.844 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+19:05:09.844 [main] DEBUG testCases.AccountRegistrationTest - Application Log Ends........
+19:05:09.844 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration END*****
+19:05:16.957 [main] INFO  testCases.TC_002_LoginTest - ****TC_002_LOGIN Starts****
+19:05:16.958 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs
+19:05:16.958 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link
+19:05:18.275 [main] INFO  testCases.TC_002_LoginTest - Entering email and password
+19:05:18.606 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+19:05:18.609 [main] INFO  testCases.TC_002_LoginTest - checking my account exists
+19:05:21.436 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+19:05:21.436 [main] INFO  testCases.TC_002_LoginTest - ****Finished Login Test****
+19:05:28.247 [main] INFO  testCases.TC_003_ProdcutDertails - ****TC_003_Product Details Start****
+19:05:28.248 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+19:05:28.251 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on login link
+19:05:29.581 [main] INFO  testCases.TC_003_ProdcutDertails - Entering email and password
+19:05:29.888 [main] INFO  testCases.TC_003_ProdcutDertails - clicked on login button..
+19:05:32.802 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on details button
+19:05:37.304 [main] INFO  testCases.TC_003_ProdcutDertails - Checking Product Details Displayed??
+19:05:37.304 [main] INFO  testCases.TC_003_ProdcutDertails - Test Passed
+19:05:37.304 [main] INFO  testCases.TC_003_ProdcutDertails - ****TC_003_Product Details End****
+19:05:37.304 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+19:05:44.482 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****
+19:05:44.483 [main] DEBUG testCases.TC_004_Logout_Functionality - Application Debug Starts
+19:05:45.786 [main] INFO  testCases.TC_004_Logout_Functionality - Clicked on Login Link
+19:05:45.919 [main] INFO  testCases.TC_004_Logout_Functionality - Entered Email
+19:05:46.004 [main] INFO  testCases.TC_004_Logout_Functionality - Entered Password
+19:05:46.075 [main] INFO  testCases.TC_004_Logout_Functionality - Clicked on Login Button
+19:05:50.746 [main] INFO  testCases.TC_004_Logout_Functionality - Clicked on Logout Link
+19:05:50.791 [main] INFO  testCases.TC_004_Logout_Functionality - Test passed
+19:05:50.791 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****
+19:05:50.791 [main] DEBUG testCases.TC_004_Logout_Functionality - Application Debug Ends
+19:05:58.128 [main] INFO  testCases.TC_005_Add_Product_Cart - **** TC_005_Add_Product_Cart Start ****
+19:05:58.128 [main] DEBUG testCases.TC_005_Add_Product_Cart - Application Debug Starts
+19:05:59.632 [main] INFO  testCases.TC_005_Add_Product_Cart - entering email
+19:05:59.725 [main] INFO  testCases.TC_005_Add_Product_Cart - Entering Password
+19:05:59.803 [main] INFO  testCases.TC_005_Add_Product_Cart - clicked on login button
+19:06:03.043 [main] INFO  testCases.TC_005_Add_Product_Cart - Clicked on buy button
+19:06:08.887 [main] INFO  testCases.TC_005_Add_Product_Cart - Selecting Quantity
+19:06:13.972 [main] INFO  testCases.TC_005_Add_Product_Cart - Clicked on add to cart button
+19:06:15.658 [main] INFO  testCases.TC_005_Add_Product_Cart - clicked on shopping item links
+19:06:15.691 [main] INFO  testCases.TC_005_Add_Product_Cart - Test Passed
+19:06:15.692 [main] INFO  testCases.TC_005_Add_Product_Cart - **** TC_005_Add_Product_Cart End ****
+19:06:15.692 [main] DEBUG testCases.TC_005_Add_Product_Cart - Application Debug End

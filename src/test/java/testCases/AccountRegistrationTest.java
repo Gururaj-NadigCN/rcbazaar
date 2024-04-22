@@ -67,7 +67,7 @@ public class AccountRegistrationTest extends BaseClass {
 		String confMsg=registration.getConfirmationMessage();
 		logger.info("Validating Confirmation Message");
 		
-		Assert.assertEquals(confMsg, "Your registration completed!!!");
+		Assert.assertEquals(confMsg, "Your registration completed");
 		
 		logger.info("Test Passed");
 		

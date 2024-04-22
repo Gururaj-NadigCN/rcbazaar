@@ -9,7 +9,7 @@ import testBase.BaseClass;
 
 public class TC_009_Advanced_Search_Functionality extends BaseClass {
 	
-	@Test
+	@Test(groups= {"regression"})
 	
 	public void verifyAdvancedSearch() throws InterruptedException {
 		

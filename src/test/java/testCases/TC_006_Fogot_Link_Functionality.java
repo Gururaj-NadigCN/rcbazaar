@@ -9,7 +9,7 @@ import testBase.BaseClass;
 
 public class TC_006_Fogot_Link_Functionality extends BaseClass {
 
-	@Test
+	@Test(groups = {"regression","sanity","master"})
 	public void verifyForgotLink() {
 
 		HomePage hp = new HomePage(driver);

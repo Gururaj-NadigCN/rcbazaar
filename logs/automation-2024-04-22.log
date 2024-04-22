@@ -1,0 +1,59 @@
+19:03:14.201 [main] INFO  testCases.AccountRegistrationTest - Entering Confirm Password
+19:03:14.284 [main] INFO  testCases.AccountRegistrationTest - Clicking on Registration Button
+19:03:15.948 [main] INFO  testCases.AccountRegistrationTest - Validating Confirmation Message
+19:03:15.950 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+19:03:15.950 [main] DEBUG testCases.AccountRegistrationTest - Application Log Ends........
+19:03:15.950 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration END*****
+19:03:23.879 [main] INFO  testCases.TC_002_LoginTest - ****TC_002_LOGIN Starts****
+19:03:23.880 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs
+19:03:23.880 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link
+19:03:25.127 [main] INFO  testCases.TC_002_LoginTest - Entering email and password
+19:03:25.440 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+19:03:25.441 [main] INFO  testCases.TC_002_LoginTest - checking my account exists
+19:03:28.206 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed
+19:03:28.206 [main] INFO  testCases.TC_002_LoginTest - ****Finished Login Test****
+19:03:34.217 [main] INFO  testCases.TC_003_ProdcutDertails - ****TC_003_Product Details Start****
+19:03:34.218 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+19:03:34.220 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on login link
+19:03:35.458 [main] INFO  testCases.TC_003_ProdcutDertails - Entering email and password
+19:03:35.804 [main] INFO  testCases.TC_003_ProdcutDertails - clicked on login button..
+19:03:38.879 [main] INFO  testCases.TC_003_ProdcutDertails - Clicked on details button
+19:03:43.834 [main] INFO  testCases.TC_003_ProdcutDertails - Checking Product Details Displayed??
+19:03:43.835 [main] INFO  testCases.TC_003_ProdcutDertails - Test Passed
+19:03:43.835 [main] INFO  testCases.TC_003_ProdcutDertails - ****TC_003_Product Details End****
+19:03:43.835 [main] DEBUG testCases.TC_003_ProdcutDertails - capturing application debug logs
+19:03:50.257 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****
+19:03:50.257 [main] DEBUG testCases.TC_004_Logout_Functionality - Application Debug Starts
+19:03:51.419 [main] INFO  testCases.TC_004_Logout_Functionality - Clicked on Login Link
+19:03:51.581 [main] INFO  testCases.TC_004_Logout_Functionality - Entered Email
+19:03:51.671 [main] INFO  testCases.TC_004_Logout_Functionality - Entered Password
+19:03:51.751 [main] INFO  testCases.TC_004_Logout_Functionality - Clicked on Login Button
+19:03:56.716 [main] INFO  testCases.TC_004_Logout_Functionality - Clicked on Logout Link
+19:03:56.761 [main] INFO  testCases.TC_004_Logout_Functionality - Test passed
+19:03:56.761 [main] INFO  testCases.TC_004_Logout_Functionality - **** TC_004_Logout_Functionality ****
+19:03:56.761 [main] DEBUG testCases.TC_004_Logout_Functionality - Application Debug Ends
+19:04:03.384 [main] INFO  testCases.TC_005_Add_Product_Cart - **** TC_005_Add_Product_Cart Start ****
+19:04:03.384 [main] DEBUG testCases.TC_005_Add_Product_Cart - Application Debug Starts
+19:04:04.679 [main] INFO  testCases.TC_005_Add_Product_Cart - entering email
+19:04:04.778 [main] INFO  testCases.TC_005_Add_Product_Cart - Entering Password
+19:04:04.846 [main] INFO  testCases.TC_005_Add_Product_Cart - clicked on login button
+19:04:07.777 [main] INFO  testCases.TC_005_Add_Product_Cart - Clicked on buy button
+19:04:12.662 [main] INFO  testCases.TC_005_Add_Product_Cart - Selecting Quantity
+19:04:17.753 [main] INFO  testCases.TC_005_Add_Product_Cart - Clicked on add to cart button
+19:04:55.985 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Leverage\rcbazar\rcbazar\grouping.xml"
+19:04:56.351 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Leverage\rcbazar\rcbazar\grouping.xml
+
+19:05:06.197 [main] INFO  testCases.AccountRegistrationTest - *****TC_001 Account_Registration*****
+19:05:06.198 [main] DEBUG testCases.AccountRegistrationTest - Application Started
+19:05:06.198 [main] INFO  testCases.AccountRegistrationTest - *****Application Started*****
+19:05:06.198 [main] DEBUG testCases.AccountRegistrationTest - application logs
+19:05:06.258 [main] INFO  testCases.AccountRegistrationTest - Entering First Name
+19:05:06.338 [main] INFO  testCases.AccountRegistrationTest - Entering Last Name
+19:05:06.416 [main] INFO  testCases.AccountRegistrationTest - Selecting Day
+19:05:06.557 [main] INFO  testCases.AccountRegistrationTest - Selecting Month
+19:05:06.683 [main] INFO  testCases.AccountRegistrationTest - Selecting Year
+19:05:06.831 [main] INFO  testCases.AccountRegistrationTest - Entering Email
+19:05:06.914 [main] INFO  testCases.AccountRegistrationTest - Entering Company Name
+19:05:06.995 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address1
+19:05:07.083 [main] INFO  testCases.AccountRegistrationTest - Entering Street Address 2

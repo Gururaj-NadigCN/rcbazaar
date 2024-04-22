@@ -10,7 +10,7 @@ import pageObjects.MyAccountDetails;
 import testBase.BaseClass;
 
 public class TC_008_My_Account_Details extends BaseClass {
-	@Test
+	@Test(groups="master")
 	public void verfiyMyAccountDetails() throws InterruptedException {
 
 		logger.info("TC_008_My_Account_Details Starts");

@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class TC_007_Ordering_Items extends BaseClass{
 	
-	@Test
+	@Test(groups = {"sanity","master"})
 	
 	public void verifyOrderingItems() throws InterruptedException {
 		

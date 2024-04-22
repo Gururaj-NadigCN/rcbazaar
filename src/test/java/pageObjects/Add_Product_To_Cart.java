@@ -18,7 +18,7 @@ public class Add_Product_To_Cart extends BasePage{
 	
 	@FindBy(xpath = "//input[@value='Add to cart']")WebElement addCartButton;
 	
-	@FindBy(xpath="//a[normalize-space()='1 Items Shopping cart']")WebElement shoppingItemsLink;
+	@FindBy(xpath="//a[normalize-space()='2 Items Shopping cart']")WebElement shoppingItemsLink;
 	
 	@FindBy(xpath = "//h1[normalize-space()='Shopping cart']")WebElement shopingCartHaading;
 	

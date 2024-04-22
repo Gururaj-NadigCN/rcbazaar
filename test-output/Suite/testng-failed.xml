@@ -7,14 +7,21 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="sanity"/>
+        <include name="regression"/>
+        <include name="master"/>
+      </run>
+    </groups>
     <classes>
-      <class name="testCases.TC_009_Advanced_Search_Functionality">
+      <class name="testCases.TC_005_Add_Product_Cart">
         <methods>
           <include name="tearDown"/>
+          <include name="verfiyProductAddedToCart"/>
           <include name="setup"/>
-          <include name="verifyAdvancedSearch"/>
         </methods>
-      </class> <!-- testCases.TC_009_Advanced_Search_Functionality -->
+      </class> <!-- testCases.TC_005_Add_Product_Cart -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
